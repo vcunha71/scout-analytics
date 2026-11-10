@@ -8,6 +8,11 @@ Projeto de dados de ponta a ponta sobre o **Brasileirão Série A 2026**: da pla
 
 Clubes, analistas e torcedores tomam decisões com dados espalhados em planilhas. Este repositório mostra, passo a passo, como transformar esses dados em um produto analítico confiável: modelado, testado, versionado e pronto para IA.
 
+## Perguntas que este projeto vai responder
+
+1. Quais times marcam mais (ou menos) gols do que o xG indica?
+2. Quem pressiona mais alto (menor PPDA) e isso vira recuperações e vitórias?
+3. Quais times dependem mais de contra-ataques e quais de ataques posicionais?
 ## Status
 
 🟢 **Semana 1 de 24: estrutura do repositório**
