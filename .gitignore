@@ -1,0 +1,29 @@
+# Dados licenciados (Wyscout) — NUNCA sobem para o GitHub
+data/
+*.xlsx
+*.xls
+*.csv
+
+# Bancos locais
+*.duckdb
+*.duckdb.wal
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Power BI (arquivos locais/cache do formato PBIP)
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+*.pbix
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
