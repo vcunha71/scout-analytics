@@ -27,3 +27,7 @@ venv/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+
+# Google Drive (pastas temporárias de sincronização)
+.tmp.drive*/
